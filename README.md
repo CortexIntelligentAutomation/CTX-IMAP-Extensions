@@ -28,7 +28,7 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The CTX-IMAP-Extensions module requires the following files:
-* [CTX-IMAP-Extensions.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-IMAP-Extensions/releases/download/v1.0/CTX-IMAP-Extensions.studiopkg)
+* [CTX-IMAP-Extensions.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-IMAP-Extensions/blob/master/CTX-IMAP-Extensions.studiopkg)
 
 ## Installation
 Details of the installation can be found in the [CTX-IMAP-Extensions Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-IMAP-Extensions/blob/master/CTX-IMAP-Extensions%20-%20Deployment%20Plan.pdf).
