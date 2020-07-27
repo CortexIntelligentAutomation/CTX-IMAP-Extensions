@@ -12,6 +12,7 @@ The module allows users to perform the following functionality:
     * [Cortex Version](#cortex-version)
     * [OCIs](#ocis)
     * [Files](#files)
+1) [Support and Warranty](#support-and-warranty)
 2) [Installation](#installation)
 3) [How to use](#how-to-use)
 4) [How you can contribute](#how-you-can-contribute)
@@ -29,6 +30,9 @@ The  module requires the following Cortex OCIs:
 ### Files
 The CTX-IMAP-Extensions module requires the following files:
 * [CTX-IMAP-Extensions.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-IMAP-Extensions/raw/master/CTX-IMAP-Extensions.studiopkg)
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of the installation can be found in the [CTX-IMAP-Extensions Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-IMAP-Extensions/blob/master/CTX-IMAP-Extensions%20-%20Deployment%20Plan.pdf).
